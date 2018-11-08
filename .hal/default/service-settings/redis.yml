@@ -1,0 +1,2 @@
+overrideBaseUrl: redis://$REDIS_PRIMARY_ENDPOINT
+skipLifeCycleManagement: true

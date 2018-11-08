@@ -1,0 +1,5 @@
+currentDeployment: default
+  deploymentEnvironment:
+    customSizing:
+      spin-redis:
+        replicas: 0

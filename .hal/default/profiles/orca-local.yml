@@ -1,0 +1,1 @@
+services.redis.baseUrl: redis://$REDIS_PRIMARY_ENDPOINT
